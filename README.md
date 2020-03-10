@@ -22,3 +22,5 @@ The architecture of this app is pretty simple and I hope is self explanatory. It
 SplQueue and SplStack was used to store operations and operands accordingly as they look the most convenient ones in this context.
 
 Testing. I have decided to not test operations and their factory because they seem to be pretty obvious at the moment. Although this can change in the future. Also I haven't mocked operations and while testing OperationProcessor (which is the main class) as they could be considered as a part of the "unit" in this case. Also tests readability could have suffer in case of the full mocking, imho.
+
+**_ps:_** I'm not really sure if this is php position, because in company description it says python as the first language. In case if python skills are necessary I will gladly rewrite this task in it. Just please let me know.
